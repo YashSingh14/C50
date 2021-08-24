@@ -1,0 +1,14 @@
+h2{ color: yellow
+} 
+* {
+border: solid
+}
+body{
+    background-color: red;
+    background-image: linear-gradient(to right, blue, green);
+}
+.header{
+    background-color: silver;
+    display:flex;
+    flex-direction: column;
+}
